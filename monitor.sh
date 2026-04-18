@@ -4,7 +4,7 @@ URLS=("https://google.com" "https://github.com")
 LOG_FILE="log.txt"
 DATE=$(date "+%Y-%m-%d %H:%M:%S")
 
-WEBHOOK_URL="https://discord.com/api/webhooks/1494743146746347740/k-HdKcwdrtt6tc29jfjN7ZTjkjTvX-OlhdK5t" #your discord webhoook url
+WEBHOOK_URL="https://discord.com/api/webhooks/149474314677740/k-HdKcwdrtt6tc29jfjN7ZTjkjTvX-OlhdK5t" #your discord webhoook url
 
 for URL in "${URLS[@]}"; do
 
